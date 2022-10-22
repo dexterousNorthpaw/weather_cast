@@ -1,0 +1,21 @@
+[{
+    "id":1,
+    "name":"New York"
+},
+{
+    "id":2,
+    "name":"London"
+},
+{
+    "id":3,
+    "name":"Lagos"
+},
+{
+    "id":4,
+    "name":"Paris"
+},
+    {
+        "id": 5,
+        "name": "Abuja"
+    }
+]
